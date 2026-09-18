@@ -1,0 +1,22 @@
+# Data Science and AI
+
+Consolidated public library of machine learning and data science projects originally kept as separate GitHub repositories.
+
+Each folder under `projects/` is a standalone project. The original repos are still on GitHub and can be archived after this library is reviewed.
+
+## Projects
+
+- [Convolutional_Neural_Network_for_Lego_Brick_Classification](projects/Convolutional_Neural_Network_for_Lego_Brick_Classification)
+- [House_Price_Prediction_In_KingCountyWA_using_Regression_Techniques](projects/House_Price_Prediction_In_KingCountyWA_using_Regression_Techniques)
+- [Loan_Default_Prediction_in_the_Banking_Industry_using_SVM_Models](projects/Loan_Default_Prediction_in_the_Banking_Industry_using_SVM_Models)
+- [Power_Grid_Stress_Prediction_using_Recurrent_Neural_Networks](projects/Power_Grid_Stress_Prediction_using_Recurrent_Neural_Networks)
+- [Predicting_Heartbeat_Anomalies](projects/Predicting_Heartbeat_Anomalies)
+- [Predicting_Hospital_Readmission_in_Diabetic_Patients_Using_Decision_Tree_Models](projects/Predicting_Hospital_Readmission_in_Diabetic_Patients_Using_Decision_Tree_Models)
+- [Predicting_Loan_Default_Risk_in_the_Banking_Industry_Using_Keras](projects/Predicting_Loan_Default_Risk_in_the_Banking_Industry_Using_Keras)
+- [Predicting_Patient-s_Smoker_Status_Through_Text_Mining_and_Machine_Learning](projects/Predicting_Patient-s_Smoker_Status_Through_Text_Mining_and_Machine_Learning)
+- [Predicting_Salaries_from_Job_Postings_A_Machine_Learning_Approach](projects/Predicting_Salaries_from_Job_Postings_A_Machine_Learning_Approach)
+- [Predicting_Underage_Drinking_in_High_School_Students_Using_Ensemble_Machine_Learning_Methods](projects/Predicting_Underage_Drinking_in_High_School_Students_Using_Ensemble_Machine_Learning_Methods)
+- [Preventing_Bad_Loans_with_Machine_Learning](projects/Preventing_Bad_Loans_with_Machine_Learning)
+- [The_Dynamics_of_MLB_Game_Attendance](projects/The_Dynamics_of_MLB_Game_Attendance)
+
+Related libraries: [Data_Analytics_Projects](https://github.com/pzumbap/Data_Analytics_Projects), [Data_Engineering_Projects](https://github.com/pzumbap/Data_Engineering_Projects).
